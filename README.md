@@ -36,6 +36,6 @@ En el archivo `Examen_mod_2.sql` encontrarás las respuestas a las siguientes pr
 
 ## 👩‍💻 Autora
 
-- **Nombre**: Irantzu Urkiola - irurme
+- **Nombre**: Irantzu Urkiola 
 - **Curso**: Adalab - Data Analyst (promor 52 - Julia Salander)
 - **Módulo**: 2 - Bases de datos y SQL
